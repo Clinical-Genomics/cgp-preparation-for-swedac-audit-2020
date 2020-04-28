@@ -29,11 +29,11 @@ In order for the Swedac assessors to prepare for the visit, a number of document
 
 At audit there will be discussions and random sampling for Management and personnel as well as bioinformatic and IT related validations and verifications. A practical moment (bevittning) is also performed and a sample is followed through the analyses. Deviations from last audit will be followed up.
 
-**Dates:**
-2020-04-28 Practise: to follow a sample through an analysis. Performed with Uppsala as auditors.
-2020-05-13 Documentation ready to send to Swedac (M1)
-2020-05-15 Sending documentation (aim 1)
-2020-06-10 Audit
+**Dates:**  
+2020-04-28 Practise: to follow a sample through an analysis. Performed with Uppsala as auditors    
+2020-05-13 Documentation ready to send to Swedac (M1)  
+2020-05-15 Sending documentation (aim 1)  
+2020-06-10 Audit  
 
 
 ### Resources required
@@ -42,10 +42,10 @@ At audit there will be discussions and random sampling for Management and person
 
 ### Milestones
 
-M1 - Selected documentation updated (see list on GitHub, cg-project #29)
-M2 - All deviations closed (older than 2 months)
-M3 - All deviations from internal audit closed (older than 2 months)
-M4 - Documentation sent to Swedac
+M1 - Selected documentation updated (see list on GitHub, cg-project #29)  
+M2 - All deviations closed (older than 2 months)  
+M3 - All deviations from internal audit closed (older than 2 months)   
+M4 - Documentation sent to Swedac  
 
 
 ## Project activities
