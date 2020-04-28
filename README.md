@@ -1,19 +1,15 @@
-# cgp-project-template
+# cgp Preparation for swedac audit 2020
 
-*This is a template folder for creating a project, this file is a template for structuring a project. For more detailed information on creating a new project and how to contribute check out CONTRIBUTING.md*
-
-*To start with replace the title **cgp-project-template** with the name of the project.*
-*All italic text should be replaced with project specific information*
 
 ## Project summary
 | | |
 |-|-|
-| **Goal** | *reference a goal here* |
-| **Priority** | *Priority of project (1,2, or 3)* |
-| **Estimated duration** | *Estimation of time to complete* |
-| **Team Members** | *Initials of team members involved in project* |
-| **Coordinator** | *Initials of project coordinator* |
-| **External Members** | *If there are any members outside CG* |
+| **Goal** | - |
+| **Priority** | 1 |
+| **Estimated duration** | 5 weeks |
+| **Team Members** | Clinical Genomics |
+| **Coordinator** | AL |
+| **External Members** | Kristina Larsson, Torbjörn Öst, Linnea Jonsäll (all from NGI Uppsala) |
 
 ## Project description
 
@@ -21,20 +17,36 @@ This section should give a brief project descrition, fill in below
 
 ### Aim(s)
 
-1. *first aim*
-1. *second aim*
+1. To prepare documentation needed to send to Swedac 
+1. To prepare CG staff for Swedac audit
+1. To ensure that documentation is in place acc to 17025:2017
 
 ### Description
 
-*A more extended description of what needs to be done and why*
+Every 16 month Clinical Genomics is audited by Swedac and every 4th year a renewed assessment of the accreditation is performed. Next audit will be arranged on 2020-06-10. 
+
+In order for the Swedac assessors to prepare for the visit, a number of documents must be sent to Swedac in advance. Depending on the validations and other changes performed since the last audit, additional documentation might be requested.
+
+At audit there will be discussions and random sampling for Management and personnel as well as bioinformatic and IT related validations and verifications. A practical moment (bevittning) is also performed and a sample is followed through the analyses. Deviations from last audit will be followed up.
+
+**Dates:**
+2020-04-28 Practise: to follow a sample through an analysis. Performed with Uppsala as auditors.
+2020-05-13 Documentation ready to send to Swedac (M1)
+2020-05-15 Sending documentation (aim 1)
+2020-06-10 Audit
+
 
 ### Resources required
 
-*What resources are required to complete the project*
+-
 
 ### Milestones
 
-*Are there any milestones included in the project?*
+M1 - Selected documentation updated (see list on GitHub, cg-project #29)
+M2 - All deviations closed (older than 2 months)
+M3 - All deviations from internal audit closed (older than 2 months)
+M4 - Documentation sent to Swedac
+
 
 ## Project activities
 *This section shows the tasks that are needed to complete the project and the status of the tasks.* *Tasks are made as issues*
