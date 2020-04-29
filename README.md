@@ -42,10 +42,12 @@ At audit there will be discussions and random sampling for Management and person
 
 ### Milestones
 
-M1 - Selected documentation updated (see list on GitHub, cg-project #29)  
+M1 - Selected documentation updated  
 M2 - All deviations closed (older than 2 months)  
-M3 - All deviations from internal audit closed (older than 2 months)   
-M4 - Documentation sent to Swedac  
+M3 - All deviations from internal audit closed (older than 2 months) 
+M4 - Ongoing documentation published (opened vefore 2020-04-14)
+M5 - Annual review on documentation performed
+M6 - Documentation sent to Swedac  
 
 
 ## Project activities
